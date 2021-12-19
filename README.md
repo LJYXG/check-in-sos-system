@@ -2,7 +2,7 @@
 
 ## 本项目fork自ZJHCOFI的[CISS](https://github.com/ZJHCOFI/check-in-sos-system)
 
-## 本人预计会在12.26还是对本项目的二次开发
+## 本人预计会在12.26日开始对本项目进行二次开发
 
 ## 与原作者相同 本项目依旧遵循BSD-3协议
 
